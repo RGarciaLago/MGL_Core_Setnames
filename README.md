@@ -33,7 +33,7 @@ These are the MGL "setname" files that feature two different platforms.
 * SG1000:             Sega SG-1000
 * WSC:                Bandai WonderSwan Color
 
-### MGL Cores for Light-games
+### MGL Cores for Light-gun games
 These are the MGL "setname" files for Cores that have light-gun game support.
 * Genesis_LightGun:   Sega Genesis [Light-gun]
 * MegaCD_LightGun:    Sega CD [Light-gun]
