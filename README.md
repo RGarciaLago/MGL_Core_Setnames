@@ -16,7 +16,7 @@ db_url = https://raw.githubusercontent.com/RGarciaLago/MGL_Core_Setnames/db/db.j
 ## Usage
 Once you've installed the MGL files you can launch them like you would any other core!
 
-Couple of notes:
+Additional notes:
 * While a "setname" isn't a new core, MiSTer will treat as such and will need folders named the same as the "setname"
 * You can use [symbolic links](https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/) to avoid file duplication if you wish to keep all games in the core's folder
 * As part of this MGL cores, I've also included "Vertical" and "LightGun" variants of cores to allow for further config customization.
@@ -45,7 +45,7 @@ These are the MGL "setname" files for Cores that have light-gun game support.
 ### MGL Cores for vertically oriented games
 These are the MGL "setname" files for Cores that allow games to be oriented vertically.
 * AtariLynx_Vertical: Atari Lynx [Vertical]
-* WonderSwan_Vertical:Bandai WonderSwan [Vertical]
+* WonderSwan_Vertical: Bandai WonderSwan [Vertical]
 * WSC_Vertical:       Bandai WonderSwan Color [Vertical]
 
 
