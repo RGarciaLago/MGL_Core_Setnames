@@ -1,5 +1,5 @@
 # [MGL Core Setnames] for the [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
-These are MGL files that have been setup to provide alternative Core "setnames" so you can have make more than one config for Cores that support multiple platforms. The MiSTer will treat each "setname" as unique so it can have it's own configuration settings applied.
+A preset pack of modified core shortcuts (MGL files) which let you have automatic alternate core configs. Useful for cores which support multiple systems or input devices.
 
 
 ## Installation
@@ -17,36 +17,37 @@ db_url = https://raw.githubusercontent.com/RGarciaLago/MGL_Core_Setnames/db/db.j
 Once you've installed the MGL files you can launch them like you would any other core!
 
 Additional notes:
-* While a "setname" isn't a new core, MiSTer will treat as such and will need folders named the same as the "setname"
-* You can use [symbolic links](https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/) to avoid file duplication if you wish to keep all games in the core's folder
-* As part of this MGL cores, I've also included "Vertical" and "LightGun" variants of cores to allow for further config customization.
-* You can rename the "setname"  but any name changes after config files have been made will require manual updating of those files to match the new name
-* Use your `names.txt` file to make name changes so they show up how you prefer; see below for naming examples you can copy & paste.
+* These core shortcuts are MGL files that use the `<setname>` option.
+* MiSTer will treat these core shortcuts as a new core but will need folders named the same as the `<setname>`.
+* You can rename the `<setname>` within the MGL file but any name changes after config files have been created will require manual updating of those config files to match the new name.
+* Use your [names.txt file](https://github.com/ThreepwoodLeBrush/Names_MiSTer) to change the name of the MGL core shortcuts so they show up how you prefer; see below for naming examples you can copy & paste.
+* You can use [symbolic links](https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/) to avoid file duplication if you wish to keep all games in the original core's folder.
+
 
 
 ### MGL Cores
-These are the MGL "setname" files that feature two different platforms.
-* Atari2600:          Atari 2600
-* GameGear:           Sega Game Gear
-* GBC:                Nintendo Game Boy Color
-* GBC2P:              Nintendo Game Boy Color [2P]
-* SG1000:             Sega SG-1000
-* WSC:                Bandai WonderSwan Color
+These are the MGL files with a `<setname>` cores that support two different platforms.
+* Atari2600&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Atari 2600
+* GameGear&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Sega Game Gear
+* GBC&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Nintendo Game Boy Color
+* GBC2P&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Nintendo Game Boy Color [2P]
+* SG1000&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Sega SG-1000
+* WSC&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Bandai WonderSwan Color
 
 ### MGL Cores for Light-gun games
-These are the MGL "setname" files for Cores that have light-gun game support.
-* Genesis_LightGun:   Sega Genesis [Light-gun]
-* MegaCD_LightGun:    Sega CD [Light-gun]
-* NES_LightGun:       Nintendo NES [Light-gun]
-* SNES_LightGun:      Nintendo Super NES [Light-gun]
-* SMS_LightGun:       Sega Master System [Light-gun]
-* PSX_LightGun:       Sony PlayStation [Light-gun]
+These are the MGL files with a `<setname>` for cores that have light-gun game support.
+* Genesis_LightGun&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Sega Genesis [Light-gun]
+* MegaCD_LightGun&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Sega CD [Light-gun]
+* NES_LightGun&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Nintendo NES [Light-gun]
+* SNES_LightGun&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Nintendo Super NES [Light-gun]
+* SMS_LightGun&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Sega Master System [Light-gun]
+* PSX_LightGun&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Sony PlayStation [Light-gun]
 
-### MGL Cores for vertically oriented games
-These are the MGL "setname" files for Cores that allow games to be oriented vertically.
-* AtariLynx_Vertical: Atari Lynx [Vertical]
-* WonderSwan_Vertical: Bandai WonderSwan [Vertical]
-* WSC_Vertical:       Bandai WonderSwan Color [Vertical]
+### MGL Cores for vertical games
+These are the MGL files with a `<setname>` for cores that have vertically oriented games.
+* AtariLynx_Vertical&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Atari Lynx [Vertical]
+* WonderSwan_Vertical&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Bandai WonderSwan [Vertical]
+* WSC_Vertical&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Bandai WonderSwan Color [Vertical]
 
 
 ## More Resources
