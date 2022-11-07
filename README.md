@@ -1,5 +1,5 @@
 # [MGL Core Setnames] for the [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
-A preset pack of modified core shortcuts (MGL files) which let you have automatic alternate core configs. Useful for cores which support multiple systems or input devices.
+A preset pack of core shortcuts (MGL files) which let you have alternate core configs for cores which support multiple systems or input devices.
 
 
 ## Installation
