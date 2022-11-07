@@ -53,6 +53,6 @@ These are the MGL files with a `<setname>` for cores that have vertically orient
 
 
 ## More Resources
-For more extensions and utilities to improve your MiSTer, see Wizzo's list: https://github.com/wizzomafizzo/mrext
+For more extensions and utilities to improve your MiSTer: https://github.com/wizzomafizzo/mrext
 
 Thanks to [Wizzo](https://github.com/wizzomafizzo) for the idea to create a repository and [theypsilon](https://github.com/theypsilon) for the custom database!
