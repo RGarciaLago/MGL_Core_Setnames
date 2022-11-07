@@ -46,7 +46,7 @@ These are the MGL files with a `<setname>` for cores that have light-gun game su
 * PlayStation (Light-gun)
 
 ### MGL Cores for vertical games
-These are the MGL files with a `<setname>` for cores that have vertically oriented games.
+These are the MGL files with a `<setname>` for cores that support vertically oriented games.
 * Atari Lynx (Vertical)
 * WonderSwan (Vertical)
 * WonderSwan Color (Vertical)
