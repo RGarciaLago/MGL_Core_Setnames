@@ -32,6 +32,8 @@ These are the MGL files with a `<setname>` cores that support two different plat
 * GBC&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Nintendo Game Boy Color
 * GBC2P&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Nintendo Game Boy Color [2P]
 * SG1000&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Sega SG-1000
+* SuperGrafx&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;NEC PC Engine SuperGrafx
+* TurboGrafxCD&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;NEC TurboGrafx-CD
 * WSC&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Bandai WonderSwan Color
 
 ### MGL Cores for Light-gun games
