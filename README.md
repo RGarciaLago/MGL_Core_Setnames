@@ -1,5 +1,5 @@
 # [MGL Core Setnames] for the [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
-##### ❗ ***These will soon be officially part of [MiSTer-devel](https://github.com/MiSTer-devel/Distribution_MiSTer) but this repo will be used to test changes before being added to Distribution_MiSTer.***
+##### ❗ ***Some of these are now part of [MiSTer-devel](https://github.com/MiSTer-devel/Distribution_MiSTer) but this repo will be used to test before being added to Distribution_MiSTer.***
 A preset pack of core shortcuts (MGL files) which enable alternate configs for cores that support multiple systems or input devices.
 
 
@@ -27,7 +27,7 @@ Additional notes:
 
 
 ### MGL Cores
-These are the MGL files with a `<setname>` for cores that support multiple systems.
+These are MGL files with a `<setname>` for cores that support multiple systems.
 * Atari 2600 - *uses "Atari7800" core*
 * Game Gear - *uses the "SMS" core*
 * Game Boy Color - *uses the "Gameboy" core*
@@ -38,7 +38,7 @@ These are the MGL files with a `<setname>` for cores that support multiple syste
 * WonderSwan Color - *uses the "WonderSwan" core*
 
 ### MGL Cores for Light-gun games
-These are the MGL files with a `<setname>` for cores that have light-gun game support.
+These are MGL files with a `<setname>` for cores that have light-gun game support.
 * Genesis (Light-gun)
 * SEGA CD (Light-gun)
 * NES (Light-gun)
@@ -47,10 +47,15 @@ These are the MGL files with a `<setname>` for cores that have light-gun game su
 * PlayStation (Light-gun)
 
 ### MGL Cores for vertical games
-These are the MGL files with a `<setname>` for cores that support vertically oriented games.
+These are MGL files with a `<setname>` for cores that support vertically oriented games.
 * Atari Lynx (Vertical)
 * WonderSwan (Vertical)
 * WonderSwan Color (Vertical)
+
+### MGL Cores for enhanced options
+These are MGL files with a `<setname>` for cores that support options to push the system past original hardware.
+* PlayStation (Enhanced)
+
 
 
 ## More Resources
