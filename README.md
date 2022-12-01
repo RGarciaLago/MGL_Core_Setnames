@@ -60,6 +60,8 @@ These are MGL files with a `<setname>` for cores that support options to push th
 
 
 ## More Resources
+Use my video presets to quickly setup a core to look authentically retro: https://github.com/RGarciaLago/VIDEO_PRESETS_by_Robby
+
 For more extensions and utilities to improve your MiSTer: https://github.com/wizzomafizzo/mrext
 
 Thanks to [Wizzo](https://github.com/wizzomafizzo) for the idea to create a repository and [theypsilon](https://github.com/theypsilon) for the custom database!
