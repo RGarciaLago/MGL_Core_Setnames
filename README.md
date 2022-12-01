@@ -54,6 +54,7 @@ These are MGL files with a `<setname>` for cores that support vertically oriente
 
 ### MGL Cores for enhanced options
 These are MGL files with a `<setname>` for cores that support options to push the system past original hardware.
+* Game Boy Advance (Enhanced)
 * PlayStation (Enhanced)
 
 
