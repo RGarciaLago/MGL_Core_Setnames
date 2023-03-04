@@ -21,7 +21,7 @@ Additional notes:
 * These core shortcuts are MGL files that use the `<setname>` option.
 * MiSTer will treat these core shortcuts as a new core but will need folders named the same as the `<setname>`.
 * You can rename the `<setname>` but if you do after the config files are created you'll need to manually rename them to keep the same settings.
-* Use your [names.txt file](https://github.com/ThreepwoodLeBrush/Names_MiSTer) to change the name of the MGL files so they show up how you prefer (requires latest [MiSTer unstable](https://github.com/MiSTer-unstable-nightlies/Main_MiSTer/releases/download/unstable-builds/MiSTer_unstable_20221129_14e6d3)).
+* Use your [names.txt file](https://github.com/ThreepwoodLeBrush/Names_MiSTer) to change the name of the MGL files so they show up how you prefer.
 * You can use [symbolic links](https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/) to avoid file duplication if you wish to keep all games in the original core's folder.
 
 
