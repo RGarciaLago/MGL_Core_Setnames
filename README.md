@@ -39,12 +39,13 @@ These are MGL files with a `<setname>` for cores that support multiple systems.
 
 ### MGL Cores for Light-gun games
 These are MGL files with a `<setname>` for cores that have light-gun game support.
+* Atari 7800 (Light-gun)
 * Genesis (Light-gun)
-* SEGA CD (Light-gun)
-* NES (Light-gun)
-* Super NES (Light-gun)
 * Master System (Light-gun)
+* NES (Light-gun)
 * PlayStation (Light-gun)
+* SEGA CD (Light-gun)
+* Super NES (Light-gun)
 
 ### MGL Cores for vertical games
 These are MGL files with a `<setname>` for cores that support vertically oriented games.
