@@ -56,8 +56,10 @@ These are MGL files with a `<setname>` for cores that support vertically oriente
 ### MGL Cores for enhanced options
 These are MGL files with a `<setname>` for cores that support options to push the system past original hardware.
 * Game Boy Advance (Enhanced)
+* NeoGeoCD - *uses a [custom fork of the Neo Geo core](https://github.com/paulb-nl/NeoGeo_MiSTer/tree/neocd/releases), see mgl file for where you should place the rbf to avoid duplicate core names.*
 * PlayStation (Enhanced)
-* PlayStation (2x CPU) - *uses a [custom fork of the PSX core](https://github.com/RobertPeip/PSX_MiSTer/tree/main/releases), see mgl file for where you should place the rbf to avoid duplicate core names.*
+* PSX_2XCPU - *uses a [custom fork of the PSX core](https://github.com/RobertPeip/PSX_MiSTer/tree/main/releases), see mgl file for where you should place the rbf to avoid duplicate core names.*
+* SNES (Enhanced)
 
 
 
