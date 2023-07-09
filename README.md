@@ -1,5 +1,5 @@
 # [MGL Core Setnames] for the [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
-##### ❗ ***Some of these are now part of [MiSTer-devel](https://github.com/MiSTer-devel/Distribution_MiSTer) but this repo will be used to test before being added to Distribution_MiSTer.***
+##### ❗ ***Most of these are now part of [MiSTer-devel](https://github.com/MiSTer-devel/Distribution_MiSTer) but this repo will be used to test before being added to Distribution_MiSTer.***
 A preset pack of core shortcuts (MGL files) which enable alternate configs for cores that support multiple systems or input devices.
 
 
@@ -32,6 +32,8 @@ These are MGL files with a `<setname>` for cores that support multiple systems.
 * Game Gear - *uses the "SMS" core*
 * Game Boy Color - *uses the "Gameboy" core*
 * Game Boy Color 2P - *uses "Gameboy2P" core*
+* NeoGeo-CD - *uses "NeoGeo" core*
+* NeoGeoMVS - *uses "NeoGeo" core*
 * SG-1000 - *uses the "ColecoVision" core*
 * SuperGrafx - *uses the "TurboGrafx16" core*
 * TurboGrafx-CD - *uses the "TurboGrafx16" core*
@@ -56,7 +58,6 @@ These are MGL files with a `<setname>` for cores that support vertically oriente
 ### MGL Cores for enhanced options
 These are MGL files with a `<setname>` for cores that support options to push the system past original hardware.
 * Game Boy Advance (Enhanced)
-* NeoGeoCD - *uses a [custom fork of the Neo Geo core](https://github.com/paulb-nl/NeoGeo_MiSTer/tree/neocd/releases), see mgl file for where you should place the rbf to avoid duplicate core names.*
 * PlayStation (Enhanced)
 * PSX_2XCPU - *uses a [custom fork of the PSX core](https://github.com/RobertPeip/PSX_MiSTer/tree/main/releases), see mgl file for where you should place the rbf to avoid duplicate core names.*
 * SNES (Enhanced)
