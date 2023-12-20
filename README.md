@@ -65,8 +65,8 @@ These are MGL files with a `<setname>` for cores that support options to push th
 
 
 ## More Resources
-Use my video presets to quickly setup a core to look authentically retro: https://github.com/RGarciaLago/VIDEO_PRESETS_by_Robby
+Use my [VIDEO_PRESETS_by_Robby](https://github.com/RGarciaLago/VIDEO_PRESETS_by_Robby) to quickly setup a core to look authentically retro. Also available is my [Wallpaper_Collection](https://github.com/RGarciaLago/Wallpaper_Collection) to give you a ton of great backgrounds for the main menu.
 
-For more extensions and utilities to improve your MiSTer: https://github.com/wizzomafizzo/mrext
+Check out [Wizzo](https://github.com/wizzomafizzo)'s amazing set of [MiSTer Extensions](https://github.com/wizzomafizzo/mrext) to improve your MiSTer user experience.
 
-Thanks to [Wizzo](https://github.com/wizzomafizzo) for the idea to create a repository and [theypsilon](https://github.com/theypsilon) for the custom database!
+Thanks to Wizzo for the idea to create a repository and [theypsilon](https://github.com/theypsilon) for the custom database!
