@@ -58,6 +58,7 @@ These are MGL files with a `<setname>` for cores that support vertically oriente
 ### MGL Cores for enhanced options
 These are MGL files with a `<setname>` for cores that support options to push the system past original hardware.
 * Game Boy Advance (Enhanced)
+* Game Boy Advance (Enhanced) - *uses the new GBA core, see mgl file for where you should place the rbf to avoid duplicate core names.*
 * PlayStation (Enhanced)
 * PSX_2XCPU - *uses a [custom fork of the PSX core](https://github.com/RobertPeip/PSX_MiSTer/tree/main/releases), see mgl file for where you should place the rbf to avoid duplicate core names.*
 * SNES (Enhanced)
