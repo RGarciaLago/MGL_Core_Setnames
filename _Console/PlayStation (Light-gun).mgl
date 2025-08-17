@@ -1,4 +1,4 @@
 <mistergamedescription>
 	<rbf>_Console/PSX</rbf>
-	<setname>PSX_LightGun</setname>
+	<setname same_dir="1">PSX_LightGun</setname>
 </mistergamedescription>
