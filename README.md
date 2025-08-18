@@ -22,8 +22,8 @@ Additional notes:
   * MiSTer will treat these core shortcuts as a new core and create config files and folders named the same as the `<setname>`.
   * You can rename the `<setname>` but if you do after the config files are created you'll need to manually rename them to keep the same settings.
 * Some of the core shortcut MGL files use the `<setname same_dir="1">` option instead.
- * This will still create new config files named the same as the `<setname>` but will utilize the original core's folders.
- * Like with `<setname>`, you can rename the `<setname same_dir="1">` but it will create new config files with those names and not copy your prior settings over.
+  * This will still create new config files named the same as the `<setname>` but will utilize the original core's folders.
+  * Like with `<setname>`, you can rename the `<setname same_dir="1">` but it will create new config files with those names and not copy your prior settings over.
 * Use your [names.txt file](https://github.com/ThreepwoodLeBrush/Names_MiSTer) to change the name of the MGL files so they show up how you prefer.
 * You can use [symbolic links](https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/) to avoid file duplication if you wish to keep all games in the original core's folder.
 
